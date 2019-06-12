@@ -1,2 +1,8 @@
 # mi-repo-geek
-Mi primer repositorio de github
+## Mi primer repositorio de github
+
+- Mi elemento uno
+- Mi elemento dos
+
+1. Elemento Odenado
+2. Elemento dos ordenado 
