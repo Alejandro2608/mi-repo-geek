@@ -4,5 +4,5 @@
 - Mi elemento uno
 - Mi elemento dos
 
-1. Elemento Odenado
+1. Elemento Ordenado
 2. Elemento dos ordenado 
