@@ -1,5 +1,12 @@
-//setup
-var myStr = "Jello World";
+//example
+var firstLetterOfFirstName = "";
+var firstName = "Ada";
 
-//only change code below this line
-myStr = "Hello World"; //fix me
+firstLetterOfFirstName = firstName[0];
+
+//setup
+var firstLatterOfLastName = "";
+var lastName = "Lovelace";
+
+//only changes code below this line
+firstLatterOfLastName = lastName[0];
